@@ -1,1 +1,9 @@
-*.gitignore
+# ignore everything
+
+*
+
+
+
+!src/
+
+!src/**
